@@ -1,9 +1,9 @@
 {
     [
-    "BROCODE",
-    "SISCODE",
-    "SISCODE2",
-    "SISCODE3",
-    "SISCODE4"
+        "BROCODE",
+        "SISCODE",
+        "SISCODE2",
+        "SISCODE3",
+        "SISCODE4"
     ]
 }
